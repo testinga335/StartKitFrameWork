@@ -15,8 +15,8 @@ Pod::Spec.new do |spec|
 " }
   
   spec.platform     = :ios, "11.0"
-  spec.source       = { :git => "https://github.com/testinga335/		StartKitFrameWork.git", :tag => "1.0.0" }
+  spec.source       = { :git => "https://github.com/testinga335/StartKitFrameWork.git", :tag => "1.0.0" }
 
-spec.source_files  = "StartKitFrameWork/**/*"
+spec.source_files  = "StartKitFrameWork/**/8"
 
 end
